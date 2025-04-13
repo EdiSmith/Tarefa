@@ -1,1 +1,14 @@
 
+
+
+#pacotes{
+
+    text-align: center; /* Opcional: centraliza as imagens na linha */
+}
+.pacoteViagem {
+
+    display: inline-block;  /* Faz as imagens ficarem na mesma linha */
+    width: 50px;           /* Tamanho pequeno para as imagens */
+    height: auto;           /* Mantém a proporção original das imagens */
+    margin: 0 10px;   
+}
