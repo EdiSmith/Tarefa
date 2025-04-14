@@ -50,5 +50,5 @@ A plataforma permite que a agência organize seus destinos, promova pacotes tur�
 ## ▶️ Como Executar o Projeto Localmente
 
 1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/seu-usuario/agencia-viagens.git
+   ```bash[
+   [https://github.com/EdiSmith/WebsiteDeViagem.git]
