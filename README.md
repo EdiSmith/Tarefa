@@ -51,4 +51,4 @@ A plataforma permite que a agência organize seus destinos, promova pacotes tur�
 
 1. **Clone o repositório**
    ```bash[
-   [https://github.com/EdiSmith/WebsiteDeViagem.git]
+   https://github.com/EdiSmith/WebsiteDeViagem.git
